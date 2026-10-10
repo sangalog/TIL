@@ -19,7 +19,8 @@ Step1. 웹 서비스 이해
 
 Step2. Git 
 <br>
-[1강 - 버전 관리란](./Step2. Git/01.버전 관리란.md>)
+[1강 - 버전 관리란](<./Step2. Git/01.버전 관리란.md>)
 <br>
 [2강 - Git 설치 및 초기 세팅](<./Step2. Git/02.Git 설치 및 초기 세팅.md>)
 <br>
+[3강 - Commit 이해하기](<./Step2. Git/03.Commit 이해하기.md>)
