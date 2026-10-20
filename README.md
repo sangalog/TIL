@@ -2,7 +2,8 @@
 
 📝Today I Learned. 오늘 내가 배운것
 
-Step1. 웹 서비스 이해
+LG CNS AM INSPIRE CAMP 7기 사전학습 강의를 듣고 정리한 내용입니다.
+## Step1. 웹 서비스 이해
 <br>
 [1강 - 기본 개념](<./Step1. 웹 서비스 이해/01.기본 개념.md>)
 <br>
@@ -17,10 +18,14 @@ Step1. 웹 서비스 이해
 [6강 - 요약 및 정리](<./Step1. 웹 서비스 이해/06.요약 및 정리.md>)
 <br>
 
-Step2. Git 
+## Step2. Git 
 <br>
 [1강 - 버전 관리란](<./Step2. Git/01.버전 관리란.md>)
 <br>
 [2강 - Git 설치 및 초기 세팅](<./Step2. Git/02.Git 설치 및 초기 세팅.md>)
 <br>
 [3강 - Commit 이해하기](<./Step2. Git/03.Commit 이해하기.md>)
+<br>
+[4강 - Reset·Revert와 Branch 기초](<./Step2. Git/04.Reset·Revert와 Branch 기초.md>)
+<br>
+[5강 - Branch 생성과 전환 실습](<./Step2. Git/05.Branch 생성과 전환 실습.md>)
