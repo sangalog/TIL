@@ -27,3 +27,9 @@ LG CNS AM INSPIRE CAMP 7기 사전학습 강의를 듣고 정리한 내용입니
 [4강 - Reset·Revert와 Branch 기초](<./Step2. Git/04.Reset·Revert와 Branch 기초.md>)
 <br>
 [5강 - Branch 생성과 전환 실습](<./Step2. Git/05.Branch 생성과 전환 실습.md>)
+<br>
+[6강 - Merge와 Rebase](<./Step2. Git/06.Merge와 Rebase.md>)
+<br>
+[7강 - 충돌 해결 실습](<./Step2. Git/07.충돌 해결 실습.md>)
+<br>
+[8강 - GitHub 원격 저장소와 Push,Pull 실습](<./Step2. Git/08.GitHub 원격 저장소와 Push,Pull 실습.md>)
