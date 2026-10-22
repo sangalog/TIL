@@ -33,3 +33,16 @@ LG CNS AM INSPIRE CAMP 7기 사전학습 강의를 듣고 정리한 내용입니
 [7강 - 충돌 해결 실습](<./Step2. Git/07.충돌 해결 실습.md>)
 <br>
 [8강 - GitHub 원격 저장소와 Push,Pull 실습](<./Step2. Git/08.GitHub 원격 저장소와 Push,Pull 실습.md>)
+
+## Step3. Java 
+[1강 - 개발 환경 세팅](<./Step3. Java/01.개발 환경 세팅.md>)
+<br>
+[2강 - 변수와 자료형](<./Step3. Java/02. 변수와 자료형.md>)
+<br>
+[3강 - 조건문과 반복문](<./Step3. Java/03.조건문과 반복문.md>)
+<br>
+[4강 - 배열과 메서드](<./Step3. Java/04.배열과 메서드.md>)
+<br>
+[5강 - 객체지향 프로그래밍 기초](<./Step3. Java/05.객체지향 프로그래밍 기초.md>)
+<br>
+[6강 - 클래스와 인스턴스](<./Step3. Java/06.클래스와 인스턴스.md>)
